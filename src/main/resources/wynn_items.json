@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Apocalypse",
+      "icon": "minecraft:netherite_sword",
+      "description": "Mythic spear with fire damage and lifesteal.",
+      "level": 75
+    },
+    {
+      "name": "Gale's Force",
+      "icon": "minecraft:bow",
+      "description": "Wind-based archer weapon.",
+      "level": 65
+    }
+  ]
+  

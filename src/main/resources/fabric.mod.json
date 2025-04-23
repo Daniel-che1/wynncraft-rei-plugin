@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "wynnneu",
+	"version": "1.0.0",
+	"name": "Wynncraft REI Plugin",
+	"description": "An REI plugin to show Wynncraft items",
+	"authors": ["Ccrrupt"],
+	"entrypoints": {
+	  "rei_plugins": [
+		"com.ccrrupt.wynnneu.WynnREIPlugin"
+	  ]
+	},
+	"depends": {
+	  "fabricloader": ">=0.16.10",
+	  "fabric": "*",
+	  "minecraft": "1.21.4",
+	  "rei": "*"
+	}
+  }
+  
